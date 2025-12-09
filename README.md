@@ -67,7 +67,7 @@ This script performs the following steps:
 ### 3. Run analysis
 
 ```
-python src/analysis.py
+python code/analysis.py
 ```
 
 This script provides:
