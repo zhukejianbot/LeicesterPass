@@ -82,7 +82,7 @@ This script provides:
 
 | Model | AUC | AP |
 |-------|------|------|
-| Logistic Regression | 0.831 | 0.294 |
+| Logistic Regression | 0.887 | 0.308 |
 | Transformer | 0.887 | 0.410 |
 
 The Transformer improves ranking of dangerous passes by a small but consistent amount. Given the limited sample size and rarity of dangerous events, modest gains are expected.
